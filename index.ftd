@@ -76,8 +76,8 @@ firstTitle: frontend
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: explorer.
+firstTitle: I am 
+secondTitle: Manas Jain .
 
 -- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/manas-jain-171620257/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Manas jain,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
